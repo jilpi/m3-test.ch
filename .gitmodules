@@ -1,0 +1,3 @@
+[submodule "m3test-label-scanner"]
+	path = m3test-label-scanner
+	url = https://github.com/jilpi/m3test-label-scanner.git
